@@ -1,0 +1,9 @@
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample3\bin\Debug\x86\Saraff.Twain.Sample3.exe
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample3\bin\Debug\x86\Saraff.Twain.Sample3.pdb
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample3\bin\Debug\x86\Saraff.Twain.dll
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample3\bin\Debug\x86\Saraff.Twain.xml
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample3\obj\x86\Debug\Saraff.Twain.Sample3.csproj.AssemblyReference.cache
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample3\obj\x86\Debug\Saraff.Twain.Sample3.csproj.CoreCompileInputs.cache
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample3\obj\x86\Debug\Saraff.Twain.Sample3.csproj.CopyComplete
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample3\obj\x86\Debug\Saraff.Twain.Sample3.exe
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample3\obj\x86\Debug\Saraff.Twain.Sample3.pdb

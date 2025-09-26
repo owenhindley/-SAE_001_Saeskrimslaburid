@@ -1,0 +1,13 @@
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample1\bin\Release\x86\Saraff.Twain.Sample1.exe
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample1\bin\Release\x86\Saraff.Twain.Sample1.pdb
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample1\bin\Release\x86\Saraff.Twain.dll
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample1\bin\Release\x86\Saraff.Twain.xml
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample1\obj\x86\Release\Saraff.Twain.Sample1.csproj.AssemblyReference.cache
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample1\obj\x86\Release\Saraff.Twain.Sample1.Form1.resources
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample1\obj\x86\Release\Saraff.Twain.Sample1.Properties.Resources.resources
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample1\obj\x86\Release\Saraff.Twain.Sample1.SelectSourceForm.resources
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample1\obj\x86\Release\Saraff.Twain.Sample1.csproj.GenerateResource.cache
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample1\obj\x86\Release\Saraff.Twain.Sample1.csproj.CoreCompileInputs.cache
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample1\obj\x86\Release\Saraff.Twain.Sample1.csproj.CopyComplete
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample1\obj\x86\Release\Saraff.Twain.Sample1.exe
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\Saraff.Twain.Sample1\obj\x86\Release\Saraff.Twain.Sample1.pdb

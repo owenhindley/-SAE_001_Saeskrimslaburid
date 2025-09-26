@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saraff.Twain.Sample1", "Saraff.Twain.Sample1\Saraff.Twain.Sample1.csproj", "{988B07D8-347C-4792-99CD-38009CA33899}"
 EndProject
@@ -9,11 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saraff.Twain.Sample2", "Sar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saraff.Twain.Sample3", "Saraff.Twain.Sample3\Saraff.Twain.Sample3.csproj", "{4B9DA008-9FB4-4AAC-BAE6-7E0F73A6CC3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoScanToFile", "AutoScanToFile\AutoScanToFile.csproj", "{DF9AFACC-036D-498F-A9DF-AD17123C4814}"
+EndProject
 Global
-	GlobalSection(SubversionScc) = preSolution
-		Svn-Managed = True
-		Manager = AnkhSVN - Subversion Support for Visual Studio
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|x86 = Debug|x86
@@ -45,8 +43,20 @@ Global
 		{4B9DA008-9FB4-4AAC-BAE6-7E0F73A6CC3C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4B9DA008-9FB4-4AAC-BAE6-7E0F73A6CC3C}.Release|x86.ActiveCfg = Release|x86
 		{4B9DA008-9FB4-4AAC-BAE6-7E0F73A6CC3C}.Release|x86.Build.0 = Release|x86
+		{DF9AFACC-036D-498F-A9DF-AD17123C4814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9AFACC-036D-498F-A9DF-AD17123C4814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9AFACC-036D-498F-A9DF-AD17123C4814}.Debug|x86.ActiveCfg = Debug|x86
+		{DF9AFACC-036D-498F-A9DF-AD17123C4814}.Debug|x86.Build.0 = Debug|x86
+		{DF9AFACC-036D-498F-A9DF-AD17123C4814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9AFACC-036D-498F-A9DF-AD17123C4814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9AFACC-036D-498F-A9DF-AD17123C4814}.Release|x86.ActiveCfg = Release|x86
+		{DF9AFACC-036D-498F-A9DF-AD17123C4814}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,9 @@
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\AutoScanToFile\bin\Debug\x86\AutoScanToFile.exe
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\AutoScanToFile\bin\Debug\x86\AutoScanToFile.pdb
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\AutoScanToFile\bin\Debug\x86\Saraff.Twain.dll
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\AutoScanToFile\bin\Debug\x86\Saraff.Twain.xml
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\AutoScanToFile\obj\x86\Debug\AutoScanToFile.csproj.AssemblyReference.cache
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\AutoScanToFile\obj\x86\Debug\AutoScanToFile.csproj.CoreCompileInputs.cache
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\AutoScanToFile\obj\x86\Debug\AutoScanToFile.csproj.CopyComplete
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\AutoScanToFile\obj\x86\Debug\AutoScanToFile.exe
+D:\PROJECTS-SSD\SAE_001_Saeskrimslaburid\SÆSKRÍMSLABÚRIÐ\Tests\Saraff.Twain.Samples\sources\AutoScanToFile\obj\x86\Debug\AutoScanToFile.pdb
